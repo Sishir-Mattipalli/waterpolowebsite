@@ -1,0 +1,52 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roth is Rad</title>
+    <link rel="stylesheet" href="main.css">
+<style>
+#index{text-align: left;
+	width:70%}
+	{background-color:orange;}
+</style>
+</head>
+
+    <!--Menu Bar-->
+    <div>
+<ul class="sidenav">
+            <li><a class="active" href="index.html">Home</a></li>
+            <li><a href="page1.html">Page 1</a></li>
+            <li><a href="page2.html">Page 2</a></li>
+            <li><a href="page3.html">Page 3</a></li>
+<body>
+<br><br><center><h1><u>Water Polo Facts</u></h1></center>
+<h2><u>History of the sport</u></h2>
+<p id="index"><text-align: left;>Water polo is a team water sport involving six players, and ball, and a goalkeeper.
+ The game is usually played in a designated area of a swimming pool, but can also be played in lakes and streams.
+ The object of water polo is to score goals. Water polo players swim and tread water while passing the ball and defending
+their teammates, with the aim of moving the ball into the net defended by a goalie. The team with the most scored goals wins.
+ The game is divided into four periods of varying lengths depending on the level of play, with short breaks in between.
+ The home team wears numbered blue caps, the visiting team white numbered caps, and the goalies wear red caps.</p>
+<img src="https://photos.demandstudios.com/getty/article/211/19/151645252.jpg" height="280px" width="400px" style="margin-right:auto;" >
+<img src="https://www.dsr.wa.gov.au/images/default-source/spuuort-and-advice/facility-management/sports-dimensions/water-polo-pool.png?sfvrsn=4" height="280px" width="400px" style="margin-right:auto;">
+
+<h2><u>Rules of water polo</u></h2>
+ 
+<p><ul>
+<li>The team that gets the most points in 24 minutes wins
+<li>Each team has 6 people in the pool and 1 goalie each
+<li>You must tread water the whole time without touching the floor with the exception of the goalie
+<li>You can only hold the ball with one hand except for the goalie
+<li>You can only have the ball in your teams possesion for 30 seconds. Once this timer is up the opponent team gets the ball
+<li>There is no real offside rule, except within 2m of the opponent’s goal line
+<li>Http
+</body>
+        </ul>
+    </div>
+
+    
+
+</body>
+
+</html>

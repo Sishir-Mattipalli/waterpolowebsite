@@ -1,3 +1,8 @@
+  #para{
+     text-align: left;
+	width:70%
+   }
+
 body {margin: 0;}
 /* Navigation Bar */
 ul.sidenav {
@@ -5,7 +10,7 @@ ul.sidenav {
   margin: 0;
   padding: 0;
   width: 25%;
-  background-color: #f1f1f1;
+  background-color:aqua;
   position: fixed;
   height: 100%;
   overflow: auto;
@@ -19,13 +24,13 @@ ul.sidenav li a {
 }
  
 ul.sidenav li a.active {
-  background-color: #4CAF50;
-  color: white;
+   background-color: white;
+ color: teal;
 }
 
 ul.sidenav li a:hover:not(.active) {
-  background-color: #555;
-  color: white;
+  background-color: teal;
+  color: blue;
 }
 
 div.content {
